@@ -1,0 +1,9 @@
+body{font-family:sans-serif;line-height:1.6;margin:0;padding:0;color:#0f172a;background:#fff;}
+.site-header{background:#0f172a;color:#fff;padding:1.5rem;text-align:center;}
+.site-header h1{margin:0;font-size:2rem;}
+.container{max-width:900px;margin:0 auto;padding:1.5rem;}
+h2{border-bottom:2px solid #e2e8f0;padding-bottom:.3rem;margin-top:2rem;}
+ul{padding-left:1.2rem;}
+.site-footer{background:#f1f5f9;text-align:center;padding:1rem;margin-top:2rem;font-size:.9rem;color:#334155;}
+.site-footer a{color:#0f172a;text-decoration:none;}
+.site-footer a:hover{text-decoration:underline;}
